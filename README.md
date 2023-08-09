@@ -4,6 +4,8 @@ I work as Principal (senior project manager) at [BCG X](https://www.bcg.com/x), 
 
 This private GitHub contains a collection of small scripts / notebooks and larger projects that I've been working on, as part of course work or in my free time.
 
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+
 <!--
 **j-nystrom/j-nystrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
