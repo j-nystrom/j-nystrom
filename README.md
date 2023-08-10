@@ -1,4 +1,4 @@
-## Hi, I'm Jakob Nyström 👋
+## Welcome to my GitHub page
 
 I work as Principal (senior project manager) at [BCG X](https://www.bcg.com/x), leading teams that build and deploy custom data & AI products for clients. I'm currently on leave of absence and pursuing a [Master's in Data Science](https://www.uu.se/en/study/programme/masters-programme-data-science-machine-learning-and-statistics) at Uppsala University.
 
