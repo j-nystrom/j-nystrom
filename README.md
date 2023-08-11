@@ -2,7 +2,7 @@
 
 I work as Principal (senior project manager) at [BCG X](https://www.bcg.com/x), leading teams that build and deploy custom data & AI products for clients. I'm currently on leave of absence and pursuing a [Master's in Data Science](https://www.uu.se/en/study/programme/masters-programme-data-science-machine-learning-and-statistics) at Uppsala University.
 
-This private GitHub contains a collection of small scripts / notebooks and larger projects that I've been working on, as part of course work or in my free time.
+This private GitHub contains a collection of small scripts / notebooks and larger projects that I've been working on in my spare time. It also contains useful content from various courses that I've taken, covering programming, machine learning, engineering and optimization.
 
 <!--
 **j-nystrom/j-nystrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
